@@ -1,5 +1,5 @@
 # DistanceIndicator
-This code allows to estimate the stellar mass of a galaxy by providing its  surface brightness and effective radii. 
+This code allows to estimate the stellar mass of a galaxy by providing its  surface brightness and effective radii. See Ferrero et al. 2021 for more details.
 
 There are two assumptions that must to be done:
 1) A relation between stellar mass and halo mass 
